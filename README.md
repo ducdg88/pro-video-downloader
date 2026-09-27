@@ -128,3 +128,8 @@ YouTube • TikTok • Facebook • Instagram • Twitter/X • Reddit • Vimeo
 ---
 
 ⭐ **Nếu thấy hữu ích, hãy Star repo này để ủng hộ!** ⭐
+
+
+---
+
+Made by [DUCPT](https://ducpt.com/?utm_source=github&utm_medium=readme&utm_campaign=pro-video-downloader) — AI agents, automation and digital products for one-person businesses. This tool: https://ducpt.com/bai-viet/pro-video-downloader-tai-video-youtube-tiktok-facebook/?utm_source=github&utm_medium=readme&utm_campaign=pro-video-downloader
