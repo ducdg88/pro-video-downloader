@@ -1,4 +1,6 @@
-# ⚡ Pro Video Downloader — by Hoàng Đức
+**🇻🇳 Tiếng Việt** · [🇬🇧 English](README.en.md)
+
+# ⚡ Pro Video Downloader, by Hoàng Đức
 
 > Tải video chất lượng cao từ **YouTube, TikTok, Facebook, Instagram, Twitter/X** và **1000+ nền tảng khác** chỉ với 1 click!
 
@@ -18,7 +20,7 @@
 
 1. Vào trang **[Releases](../../releases/latest)**
 2. Tải file **`Pro Video Downloader.exe`**
-3. Chạy file — **Không cần cài đặt**, chạy trực tiếp!
+3. Chạy file: **Không cần cài đặt**, chạy trực tiếp!
 
 > ⚠️ Windows SmartScreen có thể cảnh báo "Unknown Publisher". Click **"More info"** → **"Run anyway"** để chạy.
 
@@ -59,13 +61,13 @@ python app.py
 
 ## 🎯 Chất Lượng Hỗ Trợ
 
-- 🏆 **Tốt Nhất (Best)** — Tự động chọn chất lượng cao nhất
-- 📺 **4K (2160p)** — Ultra HD
-- 🖥 **2K (1440p)** — Quad HD
-- 💻 **1080p** — Full HD
-- 📱 **720p** — HD
-- 📱 **480p** — SD
-- 🎵 **Chỉ Lấy Nhạc (MP3)** — Trích xuất audio
+- 🏆 **Tốt Nhất (Best)**: Tự động chọn chất lượng cao nhất
+- 📺 **4K (2160p)**: Ultra HD
+- 🖥 **2K (1440p)**: Quad HD
+- 💻 **1080p**: Full HD
+- 📱 **720p**: HD
+- 📱 **480p**: SD
+- 🎵 **Chỉ Lấy Nhạc (MP3)**: Trích xuất audio
 
 ---
 
@@ -102,10 +104,10 @@ YouTube • TikTok • Facebook • Instagram • Twitter/X • Reddit • Vimeo
 - 🖼️ Tải Thumbnail hàng loạt (bulk thumbnail download)
 - 📊 Biểu đồ thống kê animated 30 ngày (bar chart)
 - 🔄 Tự động kiểm tra cập nhật từ GitHub Releases
-- ☕ QR popup hover — mời cafe tác giả
+- ☕ QR popup hover: mời cafe tác giả
 - 🎨 Nút "⚡ BẮT ĐẦU TẢI NGAY" cho tab Hàng Loạt
-- 📐 Tối ưu layout UI — hiển thị đầy đủ trên mọi tab
-- 🛡️ Xử lý lỗi chi tiết — hiện rõ link nào thất bại và lý do
+- 📐 Tối ưu layout UI: hiển thị đầy đủ trên mọi tab
+- 🛡️ Xử lý lỗi chi tiết: hiện rõ link nào thất bại và lý do
 - 📋 Nút paste nhanh (📋) cho ô nhập link
 - 🏷️ Marquee chạy chữ cảm ơn người dùng
 
@@ -132,4 +134,4 @@ YouTube • TikTok • Facebook • Instagram • Twitter/X • Reddit • Vimeo
 
 ---
 
-Made by [DUCPT](https://ducpt.com/?utm_source=github&utm_medium=readme&utm_campaign=pro-video-downloader) — AI agents, automation and digital products for one-person businesses. This tool: https://ducpt.com/bai-viet/pro-video-downloader-tai-video-youtube-tiktok-facebook/?utm_source=github&utm_medium=readme&utm_campaign=pro-video-downloader
+Made by [DUCPT](https://ducpt.com/?utm_source=github&utm_medium=readme&utm_campaign=pro-video-downloader): AI agents, automation and digital products for one-person businesses. This tool: https://ducpt.com/bai-viet/pro-video-downloader-tai-video-youtube-tiktok-facebook/?utm_source=github&utm_medium=readme&utm_campaign=pro-video-downloader
